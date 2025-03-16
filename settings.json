@@ -1,8 +1,7 @@
 
 {
-  "openPhases" : ["phaseBugReporting", "phaseBugTrimming"],
+  "openPhases" : ["phaseTeamResponse"],
   "phaseBugReporting": "alpha11",
-  "phaseBugTrimming": "alpha11",
   "phaseTeamResponse": "alpha11-dev-response",
   "phaseTesterResponse": "alpha11",
   "phaseModeration": "alpha11-tutor-moderation"
